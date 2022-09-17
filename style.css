@@ -134,6 +134,9 @@ body {
   display: flex;
   flex-direction: row;
 }
+.form{
+  width: 15rem;
+}
 footer {
   display: flex;
   justify-content: space-around;
